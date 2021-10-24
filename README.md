@@ -27,3 +27,10 @@ namespace ChoixOption
         }
     }
 }
+ public class option 
+    {
+        public option(char id, List<char> choices) : base(id, choices) { }
+    }
+ public class etudiant
+    {
+    }
